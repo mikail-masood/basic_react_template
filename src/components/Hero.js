@@ -7,7 +7,7 @@ import '../App.css';
 function Hero() {
   return (
     <div className= 'hero-container'>
-      <video src="../media/videos/video/video-2.mp4" autoPlay loop muted />
+      <video src="media/videos/video-2.mp4" autoPlay loop muted />
       <h1>
         INSERT TITLE TEXT HERE
       </h1>
